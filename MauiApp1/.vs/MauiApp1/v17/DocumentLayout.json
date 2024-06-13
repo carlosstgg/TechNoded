@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|c:\\users\\pc seagull\\downloads\\mauiapp2.0\\mauiapp1.6\\mauiapp1.6\\mauiapp1.4\\mauiapp1.3\\mauiapp1.2\\mauiapp1\\mvvm\\views\\crearcuentaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|solutionrelative:mvvm\\views\\crearcuentaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|c:\\users\\pc seagull\\downloads\\mauiapp2.0\\mauiapp1.6\\mauiapp1.6\\mauiapp1.4\\mauiapp1.3\\mauiapp1.2\\mauiapp1\\mvvm\\views\\cambiarcontraview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|solutionrelative:mvvm\\views\\cambiarcontraview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|c:\\users\\pc seagull\\downloads\\mauiapp2.0\\mauiapp1.6\\mauiapp1.6\\mauiapp1.4\\mauiapp1.3\\mauiapp1.2\\mauiapp1\\mvvm\\views\\calculadoraview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|solutionrelative:mvvm\\views\\calculadoraview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|c:\\users\\pc seagull\\downloads\\mauiapp2.0\\mauiapp1.6\\mauiapp1.6\\mauiapp1.4\\mauiapp1.3\\mauiapp1.2\\mauiapp1\\mauiapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|solutionrelative:mauiapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|c:\\users\\pc seagull\\downloads\\mauiapp2.0\\mauiapp1.6\\mauiapp1.6\\mauiapp1.4\\mauiapp1.3\\mauiapp1.2\\mauiapp1\\mvvm\\views\\inicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|solutionrelative:mvvm\\views\\inicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|c:\\users\\pc seagull\\downloads\\mauiapp2.0\\mauiapp1.6\\mauiapp1.6\\mauiapp1.4\\mauiapp1.3\\mauiapp1.2\\mauiapp1\\mvvm\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F359992-F9D6-42C0-9FCE-9C55F7AC5277}|MauiApp1.csproj|solutionrelative:mvvm\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MauiApp1.csproj",
+              "RelativeDocumentMoniker": "MauiApp1.csproj",
+              "ToolTip": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MauiApp1.csproj",
+              "RelativeToolTip": "MauiApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T18:24:05.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\CalculadoraView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\Views\\CalculadoraView.xaml",
+              "ToolTip": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\CalculadoraView.xaml",
+              "RelativeToolTip": "MVVM\\Views\\CalculadoraView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T18:19:48.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InicioView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\InicioView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\Views\\InicioView.xaml",
+              "ToolTip": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\InicioView.xaml",
+              "RelativeToolTip": "MVVM\\Views\\InicioView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T18:12:15.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MVVM\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\MainPage.xaml",
+              "RelativeToolTip": "MVVM\\Views\\MainPage.xaml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T18:07:46.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrearCuentaView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\CrearCuentaView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\Views\\CrearCuentaView.xaml",
+              "ToolTip": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\CrearCuentaView.xaml",
+              "RelativeToolTip": "MVVM\\Views\\CrearCuentaView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T18:00:02.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CambiarContraView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\CambiarContraView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\Views\\CambiarContraView.xaml",
+              "ToolTip": "C:\\Users\\PC SEAGULL\\Downloads\\MauiApp2.0\\MauiApp1.6\\MauiApp1.6\\MauiApp1.4\\MauiApp1.3\\MauiApp1.2\\MauiApp1\\MVVM\\Views\\CambiarContraView.xaml",
+              "RelativeToolTip": "MVVM\\Views\\CambiarContraView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T18:00:01.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

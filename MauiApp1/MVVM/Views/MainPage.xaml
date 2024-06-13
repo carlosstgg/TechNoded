@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <Grid RowDefinitions=".03*,.7*">
+
+        <Grid Grid.Row="1">
+            <RoundRectangle Margin="-5,-30,-5,-2" CornerRadius="30,30,0,0">
+                <RoundRectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                        <GradientStop Color="#1816E0" Offset="0"/>
+                        <GradientStop Color="#9C16E0" Offset="1"/>
+                    </LinearGradientBrush>
+                </RoundRectangle.Fill>
+            </RoundRectangle>
+            <VerticalStackLayout Margin="30,0,30,0">
+                <Label
+            FontAttributes="Bold"
+            FontSize="30"
+            Margin="0,30,0,30"
+            Text="Bienvenido a TechNoded"
+            TextColor="white" />
+                <Label
+            FontAttributes="Bold"
+            FontSize="Small"
+            Text=""
+            TextColor="white" />
+                <Grid Margin="0,0,0,0" ColumnDefinitions=".2*,.8*">
+                    <RoundRectangle
+                BackgroundColor="white"
+                CornerRadius="10"
+                HeightRequest="40"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                WidthRequest="40" />
+                    <Image HorizontalOptions="Center">
+                        <Image.Source>
+                            <FontImageSource
+                        FontFamily="{StaticResource FontAwesomeRegular}"
+                        Glyph="&#xf007;"
+                        Size="30"
+                        Color="black" />
+                        </Image.Source>
+                    </Image>
+                    <Entry
+                Grid.Column="1"
+                FontSize="14"
+                Placeholder="Correo Electrónico"
+                VerticalOptions="Center"
+                Text="{Binding CorreoIngresado, Mode=TwoWay}"
+                TextColor="White"
+                x:Name="Entrada_Correo"/>
+
+                </Grid>
+                <Grid Margin="0,30,0,0" ColumnDefinitions=".2*,.8*">
+                    <RoundRectangle
+                BackgroundColor="white"
+                CornerRadius="10"
+                HeightRequest="40"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                WidthRequest="40" />
+                    <Image HorizontalOptions="Center">
+                        <Image.Source>
+                            <FontImageSource
+                        FontFamily="{StaticResource FontAwesomeRegular}"
+                        Glyph="&#xf084;"
+                        Size="30"
+                        Color="black" />
+                        </Image.Source>
+                    </Image>
+                    <Entry
+                    
+                Text="{Binding ContrasenaIngresada, Mode=TwoWay}"
+                Grid.Column="1"
+                FontSize="14"
+                IsPassword="True"
+                Placeholder="Contraseña"
+                VerticalOptions="Center" 
+                TextColor="White"
+          
+                x:Name="Entrada_Contrasena"/>
+
+                </Grid>
+                <Button
+            Margin="0,60,0,10"
+            BackgroundColor="#DE16E0"
+       
+            HeightRequest="60"
+            Text="Iniciar Sesion"
+            TextColor="White"
+            Command="{Binding SesionCommand}"
+                
+                />
+
+                
+
+                <Button
+            Margin="0,30,0,0"
+            BackgroundColor="#DE16E0"
+            HeightRequest="60"
+            TextColor="White" 
+            Text="Crear cuenta nueva"
+            Command="{Binding CrearCuenta}"/>
+
+                <Label
+Margin="0,20,0,10"
+HorizontalOptions="Center"
+Text="Cambiar contraseña"
+TextColor="white"
+TextDecorations="Underline"
+>
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding CambiarContraCommand}" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+            </VerticalStackLayout>
+            
+            
+        </Grid>
+
+
+    </Grid>
+
+</ContentPage>

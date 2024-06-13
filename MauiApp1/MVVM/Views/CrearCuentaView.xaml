@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MVVM.Views.CrearCuentaView"
+             Title="Crear Cuenta">
+
+    <Grid RowDefinitions=".03*,.7*">
+        
+
+        <Grid Grid.Row="1">
+            <RoundRectangle Margin="-5,-30,-5,-2" CornerRadius="30,30,0,0">
+                <RoundRectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                        <GradientStop Color="#1816E0" Offset="0"/>
+                        <GradientStop Color="#9C16E0" Offset="1"/>
+                    </LinearGradientBrush>
+                </RoundRectangle.Fill>
+            </RoundRectangle>
+            
+            <VerticalStackLayout>
+        <Label 
+        Margin="30, 30, 30, 10"
+        Text="Llena los campos para crear una cuenta nueva"
+            FontAttributes="Bold"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center" 
+        
+        FontSize="20"></Label>
+        <Label 
+        Text="Nombre:"
+        VerticalOptions="Center" 
+        VerticalTextAlignment="Center"
+        HorizontalTextAlignment="Center"
+        HorizontalOptions="Start"
+            Margin="30,30,30,0"
+        FontSize="18"></Label>
+        <Entry
+        Placeholder="Introduce tu nombre"
+        FontSize="14"
+        VerticalTextAlignment="Center"
+        HorizontalTextAlignment="Start"
+        Text="{Binding CurrentPerson.Name}"
+        VerticalOptions="Center" 
+        HorizontalOptions="FillAndExpand"
+    Margin="26,0,30,0"
+        x:Name="nom"
+        ></Entry>
+        <Label 
+        Text="Correo:"
+        VerticalTextAlignment="Center"
+        HorizontalTextAlignment="Center"
+        VerticalOptions="Center" 
+        HorizontalOptions="Start"
+    Margin="30,30,30,0"
+        FontSize="18"
+        ></Label>
+        <Entry
+        Placeholder="Introduce tu correo"
+            FontSize="14"
+        VerticalTextAlignment="Center"
+        HorizontalTextAlignment="Start"
+        Text="{Binding CurrentPerson.Correo}"
+        VerticalOptions="Center" 
+            HorizontalOptions="FillAndExpand"
+Margin="26,0,30,0"
+        x:Name="corre"
+        ></Entry>
+        <Label 
+        Text="Contraseña:"
+        VerticalOptions="Center" 
+        HorizontalOptions="FillAndExpand"
+    Margin="30,30,30,0"
+        FontSize="18"></Label>
+        <Entry
+        Placeholder="Introduce tu correo"
+            FontSize="14"
+        VerticalTextAlignment="Center"
+        HorizontalTextAlignment="Start"
+        Text="{Binding CurrentPerson.Contrasena}"
+        IsPassword="True"
+        VerticalOptions="Center" 
+            HorizontalOptions="FillAndExpand"
+Margin="26,0,30,0"
+        x:Name="contra"
+        ></Entry>
+        <Entry
+        Placeholder="Confirma tu contraseña"
+            FontSize="14"
+        VerticalTextAlignment="Center"
+        HorizontalTextAlignment="Start"
+        Text="{Binding ConfirmarContra}"
+        IsPassword="True"
+        VerticalOptions="Center" 
+            HorizontalOptions="FillAndExpand"
+Margin="26,0,30,0"
+        
+></Entry>
+        <Button
+        Margin="30,40,30,30"
+        BackgroundColor="#DE16E0"
+        HeightRequest="60"
+        TextColor="White" 
+        Text="Crear Cuenta"
+        Command="{Binding AddOrUpdateCommand}"></Button>
+        
+        
+        <Label x:Name="statusmessage"></Label>
+        
+       <CollectionView ItemsSource="{Binding Persons}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid ColumnDefinitions="33*,33*,33*">
+                        <Label Text="{Binding Name}" HorizontalOptions="Center"></Label>
+                        <Label Text="{Binding Correo}" Grid.Column="1" HorizontalOptions="Center"></Label>
+                        <Label Text="{Binding Contrasena}" Grid.Column="2" HorizontalOptions="Center"></Label>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+        </Grid>
+    </Grid>
+</ContentPage>
+        

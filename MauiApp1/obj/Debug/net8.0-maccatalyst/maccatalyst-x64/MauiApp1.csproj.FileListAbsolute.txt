@@ -1,0 +1,1296 @@
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.runtimeconfig.json
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLite-net.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.batteries_v2.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.core.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libe_sqlite3.dylib
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.AssemblyReference.cache
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfoInputs.cache
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfo.cs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.CoreCompileInputs.cache
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.Up2Date
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.genruntimeconfig.cache
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\foto.jpg
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\giphy.gif
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\paulo.jpg
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Brands-Regular-400.otf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Regular-400.otf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Solid-900.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.runtimeconfig.json
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLite-net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.batteries_v2.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.core.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libe_sqlite3.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\foto.jpg
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\giphy.gif
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\paulo.jpg
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Brands-Regular-400.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Regular-400.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Solid-900.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.AssemblyReference.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfoInputs.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfo.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.CoreCompileInputs.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.Up2Date
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.genruntimeconfig.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.runtimeconfig.json
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLite-net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.batteries_v2.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.core.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libe_sqlite3.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\foto.jpg
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\giphy.gif
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\paulo.jpg
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Brands-Regular-400.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Regular-400.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Solid-900.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.AssemblyReference.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfoInputs.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfo.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.CoreCompileInputs.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.Fody.CopyLocal.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.Fody.RuntimeCopyLocal.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.Up2Date
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.genruntimeconfig.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\MauiApp1.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.runtimeconfig.json
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLite-net.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.core.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libe_sqlite3.dylib
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\foto.jpg
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\giphy.gif
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\paulo.jpg
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Brands-Regular-400.otf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Regular-400.otf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Solid-900.otf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.AssemblyReference.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfoInputs.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfo.cs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.CoreCompileInputs.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.Fody.CopyLocal.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.CopyComplete
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\MauiApp1.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.genruntimeconfig.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\MauiApp1.dll
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\foto.jpg
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\giphy.gif
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\paulo.jpg
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Brands-Regular-400.otf
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Regular-400.otf
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\FontAwesome6Free-Solid-900.otf
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.AssemblyReference.cache
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfoInputs.cache
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.AssemblyInfo.cs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.dll
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\MauiApp1.dll
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MauiApp1.pdb

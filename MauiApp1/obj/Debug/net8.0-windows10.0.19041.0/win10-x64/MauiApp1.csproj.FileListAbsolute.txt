@@ -1,0 +1,773 @@
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.exe
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.deps.json
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.runtimeconfig.json
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.AssemblyReference.cache
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.AssemblyInfoInputs.cache
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.AssemblyInfo.cs
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.CoreCompileInputs.cache
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.Up2Date
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.genruntimeconfig.cache
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Brands-Regular-400.otf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Free-Regular-400.otf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Free-Solid-900.otf
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\foto.scale-100.jpg
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\giphy.scale-100.gif
+F:\Sexto semestre\Aplicaciones móviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\paulo.scale-100.jpg
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.exe
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.deps.json
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.runtimeconfig.json
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.AssemblyReference.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Brands-Regular-400.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Free-Regular-400.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Free-Solid-900.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\foto.scale-100.jpg
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\giphy.scale-100.gif
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\paulo.scale-100.jpg
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.AssemblyInfoInputs.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.AssemblyInfo.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.CoreCompileInputs.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.Up2Date
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.genruntimeconfig.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.exe
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.deps.json
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.runtimeconfig.json
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.AssemblyReference.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Brands-Regular-400.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Free-Regular-400.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Free-Solid-900.otf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\foto.scale-100.jpg
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\giphy.scale-100.gif
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\paulo.scale-100.jpg
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.AssemblyInfoInputs.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.AssemblyInfo.cs
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.CoreCompileInputs.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.Fody.CopyLocal.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.Fody.RuntimeCopyLocal.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.Up2Date
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.pdb
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.genruntimeconfig.cache
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\MauiApp1.dll
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+F:\Sexto semestre\Aplicaciones_moviles\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.exe
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.deps.json
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.runtimeconfig.json
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.pdb
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.AssemblyReference.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Brands-Regular-400.otf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Free-Regular-400.otf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\FontAwesome6Free-Solid-900.otf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\foto.scale-100.jpg
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\giphy.scale-100.gif
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\paulo.scale-100.jpg
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.AssemblyInfoInputs.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.AssemblyInfo.cs
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.CoreCompileInputs.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.Fody.CopyLocal.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.CopyComplete
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\MauiApp1.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.pdb
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.genruntimeconfig.cache
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\MauiApp1.dll
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\papat\Downloads\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.AssemblyReference.cache
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\MauiApp1.dll
+C:\Users\PC SEAGULL\Downloads\MauiApp1.6\MauiApp1.6\MauiApp1.4\MauiApp1.3\MauiApp1.2\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.pdb

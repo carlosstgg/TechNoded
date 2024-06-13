@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MauiApp1.MVVM.ViewModels"
+             x:Class="MauiApp1.MVVM.Views.InicioView"
+             Title="Inicio">
+    
+    
+    <ScrollView>
+    <StackLayout Padding="10">
+        <SearchBar Placeholder="Buscar por tipo o código..."
+                   Text="{Binding Search}"
+                   SearchCommand="{Binding SearchCommand}"
+                   SearchCommandParameter="{Binding Text}"
+                   Margin="10,10,24,0" />
+        <Button Text="Calculadora de resistencias"
+                Margin="10,30,10,30"
+                BackgroundColor="#DE16E0"
+                HeightRequest="40"
+                TextColor="White"
+                Command="{Binding CalculadoraCommand}" />
+        <CollectionView ItemsSource="{Binding FilteredCompos}"
+                        SelectionMode="Single"
+                        SelectedItem="{Binding SelectedCompo}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <Label Text="{Binding Tipo}" />
+                        <Label Text="{Binding Codigo}" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+    </ScrollView>
+</ContentPage>

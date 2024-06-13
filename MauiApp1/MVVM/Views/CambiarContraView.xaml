@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MVVM.Views.CambiarContraView"
+             Title="Cambiar Contraseña">
+
+    <Grid RowDefinitions=".03*,.7*">
+
+
+        <Grid Grid.Row="1">
+            <RoundRectangle Margin="-5,-30,-5,-2" CornerRadius="30,30,0,0">
+                <RoundRectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                        <GradientStop Color="#1816E0" Offset="0"/>
+                        <GradientStop Color="#9C16E0" Offset="1"/>
+                    </LinearGradientBrush>
+                </RoundRectangle.Fill>
+            </RoundRectangle>
+
+            <VerticalStackLayout>
+        <Label 
+            Margin="30, 30, 30, 10"
+            Text="Cambiar Contraseña"
+            FontSize="20"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"></Label>
+        
+        <Label 
+            
+            Text="Ingresa el correo:"
+            FontSize="15"
+            VerticalOptions="Center"
+            HorizontalOptions="Start"
+    Margin="30,30,30,0"></Label>
+        <Entry Placeholder="Correo" Text="{Binding Correo}" 
+                   HorizontalOptions="FillAndExpand"
+Margin="26,0,30,0"/>
+        <Label 
+            Text="Ingresa la contraseña actual:"
+            FontSize="15"
+            VerticalOptions="Center"
+            HorizontalOptions="Start"
+    Margin="30,30,30,0"></Label>
+        <Entry Placeholder="Contraseña Actual" IsPassword="True" Text="{Binding ContrasenaActual}" 
+                   HorizontalOptions="FillAndExpand"
+Margin="26,0,30,0"/>
+        <Label 
+            Text="Ingresa la nueva contraseña:"
+            FontSize="15"
+            VerticalOptions="Center"
+            HorizontalOptions="Start"
+    Margin="30,30,30,0"></Label>
+        <Entry Placeholder="Nueva Contraseña" IsPassword="True" Text="{Binding NuevaContrasena}" 
+                   HorizontalOptions="FillAndExpand"
+Margin="26,0,30,0"/>
+        <Entry Placeholder="Confirmar Nueva Contraseña" IsPassword="True" Text="{Binding ConfirmarNuevaContrasena}" 
+                   HorizontalOptions="FillAndExpand"
+Margin="26,0,30,0"/>
+        <Button Text="Cambiar Contraseña" Command="{Binding CambiarContrasenaCommand}" 
+                Margin="30,40,30,30"
+BackgroundColor="#DE16E0"
+HeightRequest="60"
+TextColor="White"  />
+       
+        <CollectionView ItemsSource="{Binding Persons}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid ColumnDefinitions="*,*,*">
+                        <Label Text="{Binding Name}"></Label>
+                        <Label Text="{Binding Correo}" Grid.Column="1"></Label>
+                        <Label Text="{Binding Contrasena}" Grid.Column="2"></Label>
+                        
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+           </Grid>
+    </Grid>
+</ContentPage>
